@@ -1,0 +1,8 @@
+2025-05-29 11:02:37,test,Test operation details
+2025-05-29 11:02:37,add,Added test batch
+2025-05-29 11:02:37,update,Updated test batch
+2025-05-29 11:02:41,add_batch,Added batch B500
+2025-05-29 11:02:41,update_status,Updated batch B500 status to washing
+2025-05-29 11:02:41,record_processing,Recorded washing for batch B500
+2025-05-29 11:02:41,update_status,Updated batch B500 status to drying
+2025-05-29 11:02:41,record_processing,Recorded drying for batch B500

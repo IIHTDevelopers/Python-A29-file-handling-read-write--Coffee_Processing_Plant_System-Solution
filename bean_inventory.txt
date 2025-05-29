@@ -1,0 +1,4 @@
+B001,2023-05-15,F042,Arabica,250.0,received
+B002,2023-05-16,F036,Robusta,300.0,washing
+B003,2023-05-17,F042,Arabica,175.0,drying
+B500,2023-06-10,F100,Arabica,300.0,drying
